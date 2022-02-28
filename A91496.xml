@@ -1,0 +1,511 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A particular of the new-buildings within the bills of mortallity [sic], and without the city of London, from the year 1656 to 1677 according to the account now taken by the church-wardens of the several parishes and the old account of new houses from 1620 to 1656, and what they did amount to at one whole years value, as appears by the duplicates in the exchequer.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91496</idno>
+            <idno type="STC">Wing P594B</idno>
+            <idno type="STC">ESTC R42372</idno>
+            <idno type="EEBO-CITATION">36273317</idno>
+            <idno type="OCLC">ocm 36273317</idno>
+            <idno type="VID">150152</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91496)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150152)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2234:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A particular of the new-buildings within the bills of mortallity [sic], and without the city of London, from the year 1656 to 1677 according to the account now taken by the church-wardens of the several parishes and the old account of new houses from 1620 to 1656, and what they did amount to at one whole years value, as appears by the duplicates in the exchequer.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1678?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Imperfect: stained, creased and worn, with loss of print.</note>
+                  <note>Reproduction of original in the Guildhall Library (London, England)</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Housing development --  England --  London --  Early works to 1800.</term>
+               <term>Housing --  Statistics --  England --  London.</term>
+               <term>London (England) --  History --  17th century.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:150152:1" rendition="simple:additions"/>
+            <head>A Particular of the New-buildings within the Bills of Mortallity, and without
+the City of <hi>London,</hi> from the year 1656. to 1677 according to the account now
+taken by the Church-Wardens of the ſeveral Pariſhes.</head>
+            <head>And the old account of New Houſes from 1620 to 1656. and what they did amount
+to at one whole years Value, as appears by the Duplicates in the Exchequer.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell>1677</cell>
+                     <cell>1656</cell>
+                     <cell cols="3">value.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>l.</cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                  </row>
+                  <row>
+                     <cell>Weſtminſter</cell>
+                     <cell>490</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Martins in the Fields,</cell>
+                     <cell>17</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S. Giles in the Fields,</cell>
+                     <cell> </cell>
+                     <cell>41</cell>
+                     <cell>4855</cell>
+                     <cell>8</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Covent-Garden,</cell>
+                     <cell> </cell>
+                     <cell>42</cell>
+                     <cell>10859</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Savoy,</cell>
+                     <cell>37</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S. Clements Danes,</cell>
+                     <cell>253</cell>
+                     <cell>183</cell>
+                     <cell>3794</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>S. Dunſton in the Weſt</cell>
+                     <cell>72</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S. Bridget,</cell>
+                     <cell>126</cell>
+                     <cell>146</cell>
+                     <cell>1475</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>S. Andrews Holbourn,</cell>
+                     <cell>550</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S. Bride well Precinct,</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S. Sepulcher,</cell>
+                     <cell>35</cell>
+                     <cell>127</cell>
+                     <cell>725</cell>
+                     <cell>11</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Clerkenwell,</cell>
+                     <cell>199</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Bartholomew Great,</cell>
+                     <cell>11</cell>
+                     <cell>47</cell>
+                     <cell>205</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Bartholomew Leſs,</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Alderſgate,</cell>
+                     <cell>102</cell>
+                     <cell>30</cell>
+                     <cell>390</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Criplegate,</cell>
+                     <cell> </cell>
+                     <cell>517</cell>
+                     <cell>3362</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Biſhopgate,</cell>
+                     <cell>208</cell>
+                     <cell>265</cell>
+                     <cell>1925</cell>
+                     <cell>7</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Algate,</cell>
+                     <cell>50</cell>
+                     <cell>520</cell>
+                     <cell>2855</cell>
+                     <cell>7</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Minories,</cell>
+                     <cell>16</cell>
+                     <cell>6</cell>
+                     <cell>45</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>St. Katherines,</cell>
+                     <cell>24</cell>
+                     <cell>51</cell>
+                     <cell>370</cell>
+                     <cell>7</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>White Chappel,</cell>
+                     <cell>423</cell>
+                     <cell>291</cell>
+                     <cell>2620</cell>
+                     <cell>4</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Shoreditch,</cell>
+                     <cell>144</cell>
+                     <cell>348</cell>
+                     <cell>1170</cell>
+                     <cell>7</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Stepny,</cell>
+                     <cell>2137</cell>
+                     <cell>1625</cell>
+                     <cell>11719</cell>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Shadwell,</cell>
+                     <cell>289</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Hackney,</cell>
+                     <cell>51</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Iflington,</cell>
+                     <cell>25</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Saviours Southwark</cell>
+                     <cell> </cell>
+                     <cell>339</cell>
+                     <cell>2137</cell>
+                     <cell>11</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Olave Southwark,</cell>
+                     <cell>385</cell>
+                     <cell>147</cell>
+                     <cell>963</cell>
+                     <cell>12</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>George Southwark,</cell>
+                     <cell>231</cell>
+                     <cell>144</cell>
+                     <cell>595</cell>
+                     <cell>18</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Thomas Southwark,</cell>
+                     <cell> </cell>
+                     <cell>160</cell>
+                     <cell>788</cell>
+                     <cell>19</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Redriff,</cell>
+                     <cell>219</cell>
+                     <cell>59</cell>
+                     <cell>397</cell>
+                     <cell>7</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Bermondſey,</cell>
+                     <cell>349</cell>
+                     <cell>528</cell>
+                     <cell>3669</cell>
+                     <cell>9</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Chriſt-Church,</cell>
+                     <cell>100</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Newington,</cell>
+                     <cell>107</cell>
+                     <cell>247</cell>
+                     <cell>995</cell>
+                     <cell>2</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Lambeth.</cell>
+                     <cell>185</cell>
+                     <cell>383</cell>
+                     <cell>
+                        <gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>684</cell>
+                     <cell>6</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>6646</cell>
+                     <cell>57606</cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>The Totall of the New-buildings from 1656. to 1677. is about Ten Thouſand.</hi>
+            </p>
+            <p>
+               <hi>The Total from 1620. to 1656. was about Seven Thouſand Five Hundred.</hi>
+            </p>
+            <p>
+               <hi>Their value at one years Rent about Seventy Thouſand Pound if it had been Collected.</hi>
+            </p>
+            <p>
+               <hi>Though the particular makes the number but 6646, and the Sum but 57606 Pound, ſome Pariſhes being wanting.</hi>
+            </p>
+            <p>AS there has been great miſtakes about the Damage and Nuſance by the Increaſe of New-building in the Suburbs; ſo by this
+we may ſee the miſtake to be as great about their number and value; ſome reporting their number to be Twenty Thouſand,
+<gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Thirty <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>; though it is very plain to any man that con<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iders that their number cannot be much above Ten Thouſand, for that
+the Total of all the <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ies, both New and Old, both in the City, <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Bills of Mortality are not Threeſcore Thouſand<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>That this is true, and that the number from 1656. to 1677. <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> much exceed Ten Thouſand, will appear by co<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ring the Increaſe
+of the Burials from 1620. to 1656. with the particular of the New-houſes Built within that <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>The Number of the Houſes, as appears before, were about Seaven Thouſand Five Hundred; now the Inhabitants that lived in thoſe New-built
+houſes made the Increaſe of the Burials within that ſpace of time, Three Thouſand; which by computing the Medium, is the Increaſe of
+two Burials for every five Houſes that were Built: So that the Increaſe of Two Thouſand Five Hundred Houſes, raiſe the Burials One Thou<g ref="char:EOLhyphen"/>ſand.</p>
+            <p>And if we examine the Increaſe of the Burials from 1656. to 1677. we ſhall find them to be about Four Thouſand, which being but a Fourth
+more then were from 1620. to 1656. The New-houſes ſince that time cannot be reckoned above a Fourth, which makes the Total now about
+Ten Thouſand.</p>
+            <p>And this way of Calculation, though it may not exactly diſcover the particular number of Houſes, yet it is ſufficient to prove there can
+be no miſtake of Thouſands in the Account; for that the Inhabitants of Two or Three Thouſand Houſes would have added a viſible Increaſe to
+the Burials.</p>
+            <p>And to further juſtifie this Computation, it agrees very well with the Calculation made by the Ingenious Mr. <hi>Grant,</hi> both of the Total num<g ref="char:EOLhyphen"/>ber
+of the Inhabitants within the Bills of Mortality, and his probable gueſs, that about three in One hundred die, allowing twelve Inhabi<g ref="char:EOLhyphen"/>tants
+to every Houſe one with another, which no man I ſuppoſe will diſpute.</p>
+            <p>This will apparently confute that wild conjecture of ſome, who report that there is Three Thouſand Five Hundred New-houſes in St.
+<hi>Martins</hi> Pariſh, when the Burials of that Pariſh are not above Eighteen Hundred in a year: So that the Total of New and Old in that Pariſh
+cannot be above Four Thouſand Five Hundred, and therefore it is probable that the Account of 1780. now given in is very true.</p>
+            <p>The conjectures of many concerning the value of theſe Houſes, that they will make twenty pound a Year one with another, and raiſe two or
+three hundred thouſand pound, are as falſe as about the number of them.</p>
+            <p>For ten thouſand Houſes will not raiſe above fifty thouſand pound, it being the half years value at ten pound a year one with another,
+which is the moſt they can be reckoned at.</p>
+            <p>As will plainly appear from the account of the value of thoſe ſeven thouſand five hundred Houſes, which did not amount to Seventy
+thouſand pound at a whole years value, as appears by the Duplicates in the Exchequer; they not making one with another ten pound a year.</p>
+            <p>Now the great Houſes in the <hi>Piazza, Lincolnes-In-fields,</hi> and <hi>Queen-ſtreet,</hi> were equal in value to theſe twenty two Houſes in St. <hi>James</hi>
+Square, or <hi>Bloomesbury</hi> Square, or other places; and are more in number of that ſort of Houſes then have been built ſince.</p>
+            <p>Beſides the middle ſort of Houſes in the Streets of <hi>Covent-Garden, Long-Acre, Clare-Market, Old-Southampton-Buildings,</hi> and other places
+have equall'd both the number and value of <hi>Leiceſter-Fiolds, Bleemesbury, York-Buildings, Eſſex-Buildings</hi> and the reſt. And the number of the
+ſmall Houſes at four or five pound <hi>per Annum</hi> ſince 1656. are much greater.</p>
+            <p>So that upon enquiry, it is plain, that the Houſes that were built before 1656. were equal in value to what have been built ſince. And therefore
+it is not probable that a Tax upon the New-foundations can raiſe above Fifty Thouſand Pound, which conſidered with the Charge of collecting
+it, and the loſs of his Majeſties Cuſtomes upon Timber, Boards, Wainſcot and Iron, being not leſs then Ten Thouſand Pound <hi>per Annum,</hi> which
+will be occaſioned by the diſcouraging of Building, will not bring in Thirty Thouſand pounds clear into the Exchequer, if it were poſſible to
+make the Law ſo that all might be Collected.</p>
+            <p>But not to mention how hard the purchaſers of New Houſes, will believe ſuch a Law to be, having paid a valuable conſideration for them,
+and offended no Law.</p>
+            <p>Nor how ſevere the Work-men builders will think they are dealt with, to be puniſhed for exerciſing their lawful Trades.</p>
+            <p>Nor how partial it will be to thoſe that built ſince 1656. that have already paid a years value.</p>
+            <p>Nor to mention what the owners of the great Houſes that have been altered. think, not being allowed the 500 <hi>l.</hi> a year, which their
+Houſes yielded before; ſince they pay for improvement by the building of their Gardens.</p>
+            <p>Nor what in general all thoſe ſufferers will think, who believe they have done good ſervice to the Nation by Building.</p>
+            <p>The Law will have this peculiar diſadvantage, it will be impoſſible ſo to word it, as to comprize all mens intereſts, ſo as to raiſe that Mo<g ref="char:EOLhyphen"/>ney
+as ſhall be deſigned by it. For after the Commiſſioners of <hi>Olivers</hi> Act had ſet four years, they did not pay in twenty thouſand pound in<g ref="char:EOLhyphen"/>to
+the Exchequer of the 70000 <hi>l.</hi> that was returned upon the Duplicates.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
